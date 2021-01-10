@@ -1,0 +1,32 @@
+#components-form-demo-normal-login
+ .login-forms {
+    max-width: 300px;
+    background-color: rgb(252, 250, 250);
+  }
+  #components-form-demo-normal-login 
+  .login-form-forgot {
+    float: right;
+  }
+  #components-form-demo-normal-login 
+  .ant-col-rtl .login-form-forgot {
+    float: left;
+  }
+  #components-form-demo-normal-login .login-form-button {
+    width: 100%;
+  }
+  .site-layout-content {
+    min-height: 280px;
+    padding: 24px;
+    background:#F0F2F5;
+  }
+  #components-layout-demo-top .logo {
+    float: left;
+    width: 120px;
+    height: 31px;
+    margin: 16px 24px 16px 0;
+    background: rgba(17, 230, 98, 0.3);
+  }
+  .ant-row-rtl #components-layout-demo-top .logo {
+    float: right;
+    margin: 16px 0 16px 24px;
+  }
