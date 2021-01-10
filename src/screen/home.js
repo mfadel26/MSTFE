@@ -164,7 +164,7 @@ function Home() {
       <Header>
         <div className="logo" />
         <Menu theme="dark" mode="horizontal" defaultSelectedKeys={["2"]}>
-          <Menu.Item key="1"> <Link to='/login'> MST</Link></Menu.Item>
+          <Menu.Item key="1">  MST </Menu.Item>
         </Menu>
       </Header>
       <div className="site-page-header-ghost-wrapper">
