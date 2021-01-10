@@ -175,7 +175,7 @@ function Home() {
       subTitle=""
       extra={[
         <Button key="1" type="primary" onClick={logOut}>
-          <Link to='/login'>Log Out</Link>
+          <Link to='/'>Log Out</Link>
         </Button>,
       ]}
     >
